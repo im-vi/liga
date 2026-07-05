@@ -1,0 +1,108 @@
+[
+    {
+        "team1": "Górnik Niwa",
+        "team2": "Black Court",
+        "sets": [],
+        "date": "07.07.2026, 18:00",
+        "status": "planned"
+    },
+
+    {
+        "team1": "Volley Dziki",
+        "team2": "NA Volley",
+        "sets": [],
+        "date": "09.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "FC Lepianka",
+        "team2": "FC Królewscy",
+        "sets": [],
+        "date": "11.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "Volley Dziki",
+        "team2": "FC Lepianka",
+        "sets": [],
+        "date": "13.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "NA Volley",
+        "team2": "FC Królewscy",
+        "sets": [],
+        "date": "15.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "Volley Dziki",
+        "team2": "FC Królewscy",
+        "sets": [],
+        "date": "17.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "NA Volley",
+        "team2": "FC Lepianka",
+        "sets": [],
+        "date": "20.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "Volley Dziki",
+        "team2": "Black Court",
+        "sets": [],
+        "date": "22.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "Volley Dziki",
+        "team2": "Górnik Niwa",
+        "sets": [],
+        "date": "24.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "NA Volley",
+        "team2": "Black Court",
+        "sets": [],
+        "date": "27.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "NA Volley",
+        "team2": "Górnik Niwa",
+        "sets": [],
+        "date": "29.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "FC Lepianka",
+        "team2": "Black Court",
+        "sets": [],
+        "date": "31.07.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "FC Lepianka",
+        "team2": "Górnik Niwa",
+        "sets": [],
+        "date": "03.08.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "FC Królewscy",
+        "team2": "Black Court",
+        "sets": [],
+        "date": "05.08.2026, 18:00",
+        "status": "planned"
+    },
+    {
+        "team1": "FC Królewscy",
+        "team2": "Górnik Niwa",
+        "sets": [],
+        "date": "07.08.2026, 18:00",
+        "status": "planned"
+    }
+]
