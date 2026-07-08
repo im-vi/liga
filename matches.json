@@ -2,9 +2,15 @@
     {
         "team1": "Górnik Niwa",
         "team2": "Black Court",
-        "sets": [],
+        "sets": [
+            [26, 28],
+            [25, 14],
+            [25, 23],
+            [21, 25],
+            [9, 15]
+        ],
         "date": "07.07.2026, 18:00",
-        "status": "planned"
+        "status": "played"
     },
 
     {
