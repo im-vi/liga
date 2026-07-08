@@ -13,11 +13,11 @@
         "name": "NA Volley",
         "logo": "TBD",
         "wins30or31": 0,
-        "wins32": 1,
+        "wins32": 0,
         "losses30or31": 0,
         "losses23": 0,
-        "setsWon": 3,
-        "setsLost": 2
+        "setsWon": 0,
+        "setsLost": 0
     },
     {
         "name": "FC Lepianka",
@@ -43,11 +43,11 @@
         "name": "Black Court",
         "logo": "TBD",
         "wins30or31": 0,
-        "wins32": 0,
+        "wins32": 1,
         "losses30or31": 0,
         "losses23": 0,
-        "setsWon": 0,
-        "setsLost": 0
+        "setsWon": 3,
+        "setsLost": 2
     },
     {
         "name": "Górnik Niwa",
