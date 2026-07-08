@@ -3,11 +3,11 @@
         "name": "Volley Dziki",
         "logo": "TBD",
         "wins30or31": 0,
-        "wins32": 0,
+        "wins32": 1,
         "losses30or31": 0,
         "losses23": 0,
-        "setsWon": 0,
-        "setsLost": 0
+        "setsWon": 3,
+        "setsLost": 2
     },
     {
         "name": "NA Volley",
@@ -55,8 +55,8 @@
         "wins30or31": 0,
         "wins32": 0,
         "losses30or31": 0,
-        "losses23": 0,
-        "setsWon": 0,
-        "setsLost": 0
+        "losses23": 1,
+        "setsWon": 2,
+        "setsLost": 3
     }
 ]
