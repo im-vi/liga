@@ -2,11 +2,11 @@
     {
         "name": "Volley Dziki",
         "logo": "TBD",
-        "wins30or31": 0,
+        "wins30or31": 1,
         "wins32": 0,
         "losses30or31": 0,
         "losses23": 0,
-        "setsWon": 0,
+        "setsWon": 3,
         "setsLost": 0
     },
     {
@@ -44,10 +44,10 @@
         "logo": "TBD",
         "wins30or31": 0,
         "wins32": 1,
-        "losses30or31": 0,
+        "losses30or31": 1,
         "losses23": 0,
         "setsWon": 3,
-        "setsLost": 2
+        "setsLost": 5
     },
     {
         "name": "Górnik Niwa",
