@@ -27,6 +27,17 @@
         "date": "11.07.2026, 18:00",
         "status": "planned"
     },
+        {
+        "team1": "Volley Dziki",
+        "team2": "Black Court",
+        "sets": [
+            [25, 17],
+            [25, 12],
+            [25, 11]
+        ],
+        "date": "13.07.2026, 14:00",
+        "status": "played"
+    },
     {
         "team1": "Volley Dziki",
         "team2": "FC Lepianka",
@@ -55,13 +66,7 @@
         "date": "20.07.2026, 18:00",
         "status": "planned"
     },
-    {
-        "team1": "Volley Dziki",
-        "team2": "Black Court",
-        "sets": [],
-        "date": "22.07.2026, 18:00",
-        "status": "planned"
-    },
+
     {
         "team1": "Volley Dziki",
         "team2": "Górnik Niwa",
