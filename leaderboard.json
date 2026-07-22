@@ -2,11 +2,11 @@
     {
         "name": "Volley Dziki",
         "logo": "https://media.sejmtracker.pl/LPSP-E2-2026/7B509BB0-C868-4311-960A-CA66FFF0B803.jpeg",
-        "wins30or31": 1,
+        "wins30or31": 2,
         "wins32": 0,
         "losses30or31": 0,
         "losses23": 0,
-        "setsWon": 3,
+        "setsWon": 6,
         "setsLost": 0
     },
     {
@@ -54,9 +54,9 @@
         "logo": "TBD",
         "wins30or31": 0,
         "wins32": 0,
-        "losses30or31": 0,
+        "losses30or31": 1,
         "losses23": 1,
         "setsWon": 2,
-        "setsLost": 3
+        "setsLost": 6
     }
 ]
