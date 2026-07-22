@@ -70,9 +70,13 @@
     {
         "team1": "Volley Dziki",
         "team2": "Górnik Niwa",
-        "sets": [],
-        "date": "24.07.2026, 18:00",
-        "status": "planned"
+        "sets": [
+            [25, 10], 
+            [25, 16],
+            [25, 4]
+        ],
+        "date": "22.07.2026, 18:00",
+        "status": "played"
     },
     {
         "team1": "NA Volley",
